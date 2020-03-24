@@ -1,0 +1,26 @@
+{
+  "name": "nextjs-doc-zh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "n",
+  "dependencies": {
+    "gitbook": "^2.6.9",
+    "gitbook-cli": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "gitbook serve",
+    "build": "gitbook build",
+    "start": "gitbook start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/li0521/nextjs-doc-zh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/li0521/nextjs-doc-zh/issues"
+  },
+  "homepage": "https://github.com/li0521/nextjs-doc-zh#readme"
+}
