@@ -6,7 +6,7 @@
 
   * [页面](./documentation/basic/pages.md)
 
-  - [数据获取](./documentation/basic/dataFetch.md)
+  * [数据获取](./documentation/basic/dataFetch.md)
 
   
 
