@@ -1,6 +1,6 @@
 # 开始
 
-*如果你刚开始学习 Next.js，建议首先从 [learn course](https://nextjs.org/learn/basics/getting-started) 开始。*
+> *如果你刚开始学习 Next.js，建议首先从 [learn course](https://nextjs.org/learn/basics/getting-started) 开始。*
 
 
 
@@ -11,7 +11,7 @@
 
 
 
-**构建**
+### 构建
 
 官方推荐使用  `'create-next-app'` 去创建一个新项目，它会自动帮你做好一些设置。可以通过以下命令创建：
 
@@ -26,7 +26,7 @@ yarn create next-app
 
 
 
-**手动构建**
+### 手动构建
 
 首先在你的项目中安装 `'next'`, `'react'` 和 `'react-dom'`：
 
