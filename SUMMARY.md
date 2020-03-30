@@ -11,4 +11,5 @@
 * 路由
     * [简介](./documentation/routing/introduction.md)
     * [动态路由](./documentation/routing/dynamicRoutes.md) 
+    * [命令式](./documentation/routing/imperatively.md)
 
