@@ -10,4 +10,5 @@
     * [TypeScript](./documentation/basic/TypeScript.md)
 * 路由
     * [简介](./documentation/routing/introduction.md)
+    * [动态路由](./documentation/routing/dynamicRoutes.md) 
 
